@@ -1,0 +1,112 @@
+[
+    {
+        "id": "jon-jones",
+        "name": "Jon Jones",
+        "record": "27-1-0",
+        "weightClass": "Light Heavyweight",
+        "height": "6'4\"",
+        "reach": "84.5\"",
+        "wins": 27,
+        "losses": 1,
+        "draws": 0
+    },
+    {
+        "id": "israel-adesanya",
+        "name": "Israel Adesanya",
+        "record": "23-2-0",
+        "weightClass": "Middleweight",
+        "height": "6'4\"",
+        "reach": "80\"",
+        "wins": 23,
+        "losses": 2,
+        "draws": 0
+    },
+    {
+        "id": "charles-oliveira",
+        "name": "Charles Oliveira",
+        "record": "33-9-0",
+        "weightClass": "Lightweight",
+        "height": "5'10\"",
+        "reach": "74\"",
+        "wins": 33,
+        "losses": 9,
+        "draws": 0
+    },
+    {
+        "id": "islam-makhachev",
+        "name": "Islam Makhachev",
+        "record": "26-1-0",
+        "weightClass": "Lightweight",
+        "height": "5'10\"",
+        "reach": "70\"",
+        "wins": 26,
+        "losses": 1,
+        "draws": 0
+    },
+    {
+        "id": "alexander-volkanovski",
+        "name": "Alexander Volkanovski",
+        "record": "26-2-0",
+        "weightClass": "Featherweight",
+        "height": "5'6\"",
+        "reach": "71.5\"",
+        "wins": 26,
+        "losses": 2,
+        "draws": 0
+    },
+    {
+        "id": "ilia-topuria",
+        "name": "Ilia Topuria",
+        "record": "14-0-0",
+        "weightClass": "Featherweight",
+        "height": "5'7\"",
+        "reach": "69\"",
+        "wins": 14,
+        "losses": 0,
+        "draws": 0
+    },
+    {
+        "id": "conor-mcgregor",
+        "name": "Conor McGregor",
+        "record": "22-6-0",
+        "weightClass": "Lightweight",
+        "height": "5'9\"",
+        "reach": "74\"",
+        "wins": 22,
+        "losses": 6,
+        "draws": 0
+    },
+    {
+        "id": "amanda-nunes",
+        "name": "Amanda Nunes",
+        "record": "22-5-0",
+        "weightClass": "Bantamweight",
+        "height": "5'8\"",
+        "reach": "69\"",
+        "wins": 22,
+        "losses": 5,
+        "draws": 0
+    },
+    {
+        "id": "kamaru-usman",
+        "name": "Kamaru Usman",
+        "record": "20-3-0",
+        "weightClass": "Welterweight",
+        "height": "5'11\"",
+        "reach": "76\"",
+        "wins": 20,
+        "losses": 3,
+        "draws": 0
+    },
+    {
+        "id": "valentina-shevchenko",
+        "name": "Valentina Shevchenko",
+        "record": "23-3-0",
+        "weightClass": "Flyweight",
+        "height": "5'5\"",
+        "reach": "66\"",
+        "wins": 23,
+        "losses": 3,
+        "draws": 0
+    }
+]

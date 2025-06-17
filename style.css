@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0 20px;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 10px 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    margin-top: 20px;
+}
+
+ul#fighter-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul#fighter-list li {
+    margin-bottom: 8px;
+}
+
+ul#fighter-list a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+ul#fighter-list a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 10px 0;
+    text-align: center;
+    background: #222;
+    color: white;
+}
